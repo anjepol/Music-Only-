@@ -9,6 +9,12 @@
 
 <!-- Agrega una captura en docs/screenshot.png -->
 <!-- ![Captura del reproductor](docs/screenshot.png) -->
+[![Captura1.png](https://i.postimg.cc/wvqJBqf2/Captura1.png)](https://postimg.cc/94kz8hjw)
+[![captura2.png](https://i.postimg.cc/15tHHHHx/captura2.png)](https://postimg.cc/qgPyB2SQ)
+[![captura3.png](https://i.postimg.cc/dt1BBB9b/captura3.png)](https://postimg.cc/grC8c3Qs)
+[![captura5.png](https://i.postimg.cc/KjYn0Gt1/captura5.png)](https://postimg.cc/ZB1BRh7m)
+[![captura6.png](https://i.postimg.cc/sXmYPQGs/captura6.png)](https://postimg.cc/njs9pL1P)
+[![captura-PC.jpg](https://i.postimg.cc/7hcTXgHH/captura-PC.jpg)](https://postimg.cc/PvWx5vv9)
 
 > **Nota:** Las canciones, artistas y carátulas mostrados en las capturas de pantalla tienen fines meramente ilustrativos y demostrativos. Prisma no incluye, no almacena ni distribuye ningún tipo de música o contenido multimedia; todos los archivos reproducidos son locales y pertenecen al usuario.
 
