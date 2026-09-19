@@ -1,0 +1,17 @@
+{
+  "name": "Reproductor Musical",
+  "short_name": "Reproductor",
+  "description": "Reproductor de música local en pantalla completa.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#0f2c4a",
+  "theme_color": "#0f2c4a",
+  "categories": ["music", "entertainment"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

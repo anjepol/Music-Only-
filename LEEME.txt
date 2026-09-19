@@ -1,0 +1,5 @@
+Reproductor Musical (PWA)
+Archivos: index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png
+Súbelos JUNTOS a la misma carpeta de un hosting con HTTPS (GitHub Pages, Netlify, Cloudflare Pages)
+o pruébalos en local con: python3 -m http.server  ->  http://localhost:8000
+El acceso a carpetas requiere HTTPS o localhost. En Chrome/Edge/Android: menú > Instalar app.
